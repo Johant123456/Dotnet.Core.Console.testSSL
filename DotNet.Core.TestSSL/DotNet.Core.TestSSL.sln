@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Core.TestSSL", "DotNet.Core.TestSSL.csproj", "{3B11E837-58DA-4E38-B11D-2DE29E78C348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B11E837-58DA-4E38-B11D-2DE29E78C348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B11E837-58DA-4E38-B11D-2DE29E78C348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B11E837-58DA-4E38-B11D-2DE29E78C348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B11E837-58DA-4E38-B11D-2DE29E78C348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174C16BF-01C8-419D-8ED4-BBEA8A913446}
+	EndGlobalSection
+EndGlobal
